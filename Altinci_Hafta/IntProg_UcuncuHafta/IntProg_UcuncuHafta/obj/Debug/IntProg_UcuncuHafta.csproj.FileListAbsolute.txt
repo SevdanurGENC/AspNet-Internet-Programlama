@@ -1,0 +1,4 @@
+C:\Users\Kemal\Desktop\NESNE TABANLI PORGRAMLAMA\IntProg_UcuncuHafta\IntProg_UcuncuHafta\bin\IntProg_UcuncuHafta.dll
+C:\Users\Kemal\Desktop\NESNE TABANLI PORGRAMLAMA\IntProg_UcuncuHafta\IntProg_UcuncuHafta\bin\IntProg_UcuncuHafta.pdb
+C:\Users\Kemal\Desktop\NESNE TABANLI PORGRAMLAMA\IntProg_UcuncuHafta\IntProg_UcuncuHafta\obj\Debug\IntProg_UcuncuHafta.dll
+C:\Users\Kemal\Desktop\NESNE TABANLI PORGRAMLAMA\IntProg_UcuncuHafta\IntProg_UcuncuHafta\obj\Debug\IntProg_UcuncuHafta.pdb

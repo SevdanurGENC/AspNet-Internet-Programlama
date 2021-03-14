@@ -1,5 +1,6 @@
 # AspNet-Internet-Programlama
-AspNet-Internet-Programlama
+
+This repo contains an application that shows Asp.Net Connection with MsSql using CRUD Operations.
 
 
 ![image](https://user-images.githubusercontent.com/5441882/111087311-fed20300-8531-11eb-85ba-132b301d9d53.png)
